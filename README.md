@@ -16,12 +16,6 @@ This app lets you:
 
 ---
 
-## 📸 Screenshot
--![WhatsApp Image 2025-08-16 at 18 57 22_ad17d8c3](https://github.com/user-attachments/assets/8ee0973a-b1fb-43a1-afd4-2ce3f0dd23e1)
-
-
----
-
 ## ⚙️ Getting Started
 
 1. Clone the repo:
